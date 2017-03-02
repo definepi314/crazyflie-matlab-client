@@ -1,5 +1,7 @@
 # crazyflie-matlab-client
 
+Following steps are for Ubuntu OS:
+
 ->Clone Library (CF_lib)
 
 ->Open Matlab and change workspace to the folder containing the CF_lib 
